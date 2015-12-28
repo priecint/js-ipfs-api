@@ -41,7 +41,8 @@ const shared = {
     fs: '{}',
     tls: '{}',
     console: '{}',
-    'require-dir': '{}'
+    'require-dir': '{}',
+    glob: '{}'
   },
   timeout: 60000
 }
